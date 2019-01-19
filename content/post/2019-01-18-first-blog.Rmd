@@ -1,0 +1,10 @@
+---
+title: First Blog
+author: ~
+date: '2019-01-18'
+slug: first-blog
+categories: [Teaching]
+tags: [Pedadogy]
+---
+
+Here I will say some really intelligent stuff...
